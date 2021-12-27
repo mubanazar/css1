@@ -1,0 +1,35 @@
+h1{
+    color:red;
+}
+ol{
+    color: brown;
+    font-weight: bold;
+    
+}
+#nazar1{
+    background-color: yellow;
+    color: brown;
+}
+h2{
+    color: firebrick;
+}
+i{
+    color: red;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+section{
+    background-color: yellow;
+    display: inline;
+}
+p{
+    color: blueviolet;
+    font-size: small;
+    font-weight: bold;
+}
+a{
+    background-color: yellow;
+    color: red;
+ font-weight: bold;
+    font-style: italic;
+}
